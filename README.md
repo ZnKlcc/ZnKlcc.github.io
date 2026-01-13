@@ -1,2 +1,1 @@
-# wellplayed.lol
-Projet réalisé pour Wellplayed.lol application pour aider les joueurs de League of Legends à s'améliorer en usant des données issues du jeu. 
+Mon Portfolio de développeur - CV et Projets Data/Python
